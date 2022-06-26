@@ -1,4 +1,6 @@
-# READ AND WRITE AN IMAGE
+## EX NO:01
+## DATE:30.3.22
+# <p align="center">READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
 i) Read, display, and write an image.
@@ -19,8 +21,9 @@ Use imwrite(filename, image) to write the image.
 ### Step5:
 End the program and close the output image windows.
 ## Program:
-### Developed By lisha
-### Register Number: 212220230028
+  ```python
+ Developed By:Lishali R
+ Register Number: 212220230028
 i) #To Read,display the image
 
 image=cv2.imread("1.jpeg")
@@ -68,7 +71,7 @@ image[2000:2700,2000:2700]=image[1000:1700,1000:1700]
 ### v)Cut and paste portion of image
 ![image](https://user-images.githubusercontent.com/75237886/161375773-b9c2bb7b-d207-447d-aecb-9ab68e59d000.png)
 
-
+```
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
