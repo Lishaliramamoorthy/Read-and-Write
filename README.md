@@ -46,7 +46,7 @@ for i in range(70,90):
 v) #To cut and paste portion of image
 
 image[2000:2700,2000:2700]=image[1000:1700,1000:1700]
-
+```
 ## Output:
 
 ### i) Read and display the image
@@ -71,7 +71,6 @@ image[2000:2700,2000:2700]=image[1000:1700,1000:1700]
 ### v)Cut and paste portion of image
 ![image](https://user-images.githubusercontent.com/75237886/161375773-b9c2bb7b-d207-447d-aecb-9ab68e59d000.png)
 
-```
 
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
